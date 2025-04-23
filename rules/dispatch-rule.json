@@ -1,5 +1,4 @@
 {
-  "trunk_ids": ["ST_eyXcTo8GZSFK,ST_We9w3biQMY97"],
     "rule": {
       "dispatchRuleIndividual": {
         "roomPrefix": "call-"
