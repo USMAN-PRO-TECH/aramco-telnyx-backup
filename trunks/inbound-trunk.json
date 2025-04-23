@@ -1,0 +1,7 @@
+{
+    "trunk": {
+        "name": "Inbound trunk",
+        "numbers": ["+18884401404"],
+        "krisp_enabled": true
+    }
+  }

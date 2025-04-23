@@ -1,0 +1,9 @@
+{
+    "trunk": {
+      "name": "usman aramco  LiveKit trunk",
+      "address": "sip.telnyx.com",
+      "numbers": ["+18884401404"],
+      "auth_username": "Araamco",
+      "auth_password": "aramco12"
+    }
+  }
